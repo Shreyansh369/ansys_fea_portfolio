@@ -1,0 +1,16 @@
+﻿# 
+# 10/11/2024 15:11:35
+# The parameters defined in the project are:
+# ,P1 - Mesh Element Size [mm],P4 - Sweep Method Sweep Element Size [mm],P2 - Mesh Nodes,P3 - Directional Deformation Minimum [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P4,P2,P3
+DP 0,5,5,727,-0.747666597366333
+DP 1,4,4,1303,-0.74913960695266724
+DP 2,3.3,3.3,2803,-0.75000655651092529
+DP 3,3,3,3805,-0.75018215179443359
+DP 4,2.4,2.4,5827,-0.75062495470047
+DP 5,2,2,9530,-0.75081783533096313
+DP 6,1.8,1.8,12779,-0.751004159450531
+DP 7,1.6,1.6,18902,-0.75115221738815308
+DP 8,1.4,1.4,27573,-0.75127863883972168

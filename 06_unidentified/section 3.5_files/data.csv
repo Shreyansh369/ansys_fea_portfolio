@@ -1,0 +1,13 @@
+﻿# 
+# 10/15/2024 15:13:27
+# The parameters defined in the project are:
+# ,P2 - Vertex Sizing Sphere Radius [mm],P3 - Vertex Sizing Element Size [mm],P4 - X Axis Normal Stress Maximum [MPa]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P2,P3,P4
+DP 0,20,2,223.851119995117
+DP 1,10,1,298.48953755696613
+DP 2,5,0.5,395.14816284179688
+DP 3,3,0.2,577.953369140625
+DP 4,3,0.1,779.82952880859375
+DP 5,3,0.06,973.12471516927087

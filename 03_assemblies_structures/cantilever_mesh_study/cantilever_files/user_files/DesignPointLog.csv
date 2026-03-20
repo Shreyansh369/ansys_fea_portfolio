@@ -1,0 +1,132 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: CANTILEVER 9.3
+# Creation date: 10/11/2024 13:50:53
+# 
+# 10/11/2024 13:50:53
+# The parameters defined in the project are:
+# ,P1 - Mesh Element Size [mm],P2 - Mesh Nodes,P3 - Directional Deformation Minimum [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3
+DP 0,5,189,-0.745710134506226
+DP 1,4,416,-0.74692517518997192
+DP 2,3,875,-0.748495876789093
+DP 3,2,1836,-0.74980473518371582
+DP 4,1.5,4352,-0.75048118829727173
+DP 5,1.3,6318,-0.75072038173675537
+DP 6,1.2,8500,-0.75085759162902832
+DP 7,1,12221,-0.75106245279312134
+DP 8,0.9,19097,-0.75119566917419434
+DP 9,0.8,24696,-0.75128895044326782
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 13:56:41
+# 
+DP 0,5,100,-0.28905844688415527
+DP 1,4,183,-0.50326752662658691
+DP 2,2.5,342,-0.548081636428833
+DP 3,2,527,-0.58865535259246826
+DP 4,1.5,756,-0.593926191329956
+DP 5,1.2,1583,-0.65496397018432617
+DP 6,1,2012,-0.65757912397384644
+DP 7,0.8,2709,-0.66630452871322632
+DP 8,0.7,4051,-0.68727600574493408
+DP 9,0.6,5148,-0.6859319806098938
+DP 10,0.55,6486,-0.69379913806915283
+DP 11,0.5,7953,-0.69978243112564087
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 14:08:11
+# 
+# 
+# 10/11/2024 14:19:39
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P1 - Mesh Element Size [mm],P2 - Mesh Nodes,P3 - Directional Deformation Minimum [mm],P4 - Sweep Method Sweep Element Size [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 1,4,324,-0.69584149122238159,4
+DP 2,3,875,-0.71843826770782471,3
+DP 3,2.4,1326,-0.72969293594360352,2.4
+DP 4,2,2112,-0.73343765735626221,2
+DP 5,1.5,4864,-0.74156147241592407,1.5
+DP 6,1.2,9300,-0.74509978294372559,1.2
+DP 7,1,13288,-0.74671316146850586,1
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 14:26:56
+# 
+DP 1,4,324,-0.47228637337684631,4
+DP 2,3,875,-0.6507796049118042,3
+DP 3,2.4,1326,-0.65621793270111084,2.4
+DP 4,2,2112,-0.70027267932891846,2
+DP 5,1.5,4864,-0.72260487079620361,1.5
+DP 6,1.2,9300,-0.7327921986579895,1.2
+DP 7,1,13288,-0.73581987619400024,1
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 14:37:32
+# 
+# 
+# 10/11/2024 14:39:48
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P1 - Mesh Element Size [mm],P2 - Mesh Nodes,P3 - Directional Deformation Minimum [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3
+DP 1,4,1440,-0.75011485815048218
+DP 2,3,3125,-0.75070923566818237
+DP 3,2,6696,-0.75108087062835693
+DP 4,1.5,16256,-0.75136208534240723
+DP 5,1.3,23787,-0.751451313495636
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 14:42:57
+# 
+DP 0,5,482,-0.74557524919509888
+DP 1,4,935,-0.7486538290977478
+DP 2,3,1363,-0.74955302476882935
+DP 3,2.5,1890,-0.74985980987548828
+DP 4,2,2934,-0.75055235624313354
+DP 5,1.5,4243,-0.75102967023849487
+DP 6,1.2,9538,-0.75117689371109009
+DP 7,1,11954,-0.751262366771698
+DP 8,0.8,16265,-0.75142961740493774
+DP 9,0.7,24794,-0.75151944160461426
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 14:51:50
+# 
+# 
+# 10/11/2024 14:59:32
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P1 - Mesh Element Size [mm],P2 - Mesh Nodes,P3 - Directional Deformation Minimum [mm],P4 - Sweep Method Sweep Element Size [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3,P4
+DP 0,5,727,-0.74815267324447632,5
+DP 1,4,1303,-0.74957573413848877,4
+DP 2,3.3,2803,-0.75037956237792969,3.3
+DP 3,3,3805,-0.750485897064209,3
+DP 4,2.4,5827,-0.75083577632904053,2.4
+DP 5,2,9530,-0.75095832347869873,2
+DP 6,1.8,12779,-0.75112718343734741,1.8
+DP 7,1.6,18902,-0.751259982585907,1.6
+DP 8,1.4,27529,-0.75136792659759521,1.4
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/11/2024 15:07:00
+# 
+DP 1,4,1303,-0.74913960695266724,4
+DP 2,3.3,2803,-0.75000655651092529,3.3
+DP 3,3,3805,-0.75018215179443359,3
+DP 4,2.4,5827,-0.75062495470047,2.4
+DP 5,2,9530,-0.75081783533096313,2
+DP 6,1.8,12779,-0.751004159450531,1.8
+DP 7,1.6,18902,-0.75115221738815308,1.6
+DP 8,1.4,27573,-0.75127863883972168,1.4
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/13/2024 14:41:10
+# 

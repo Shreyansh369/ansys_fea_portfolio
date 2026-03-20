@@ -1,0 +1,44 @@
+# ANSYS solver output
+*.rst
+*.rth
+*.mntr
+*.err
+*.out
+*.gst
+*.DSP
+*.aapresults
+*.cnd
+*.ldhi
+*.rdb
+*.PCS
+solve.out
+ds.dat
+
+# Explicit Dynamics / Autodyn
+*.ad
+*.adres
+*.adres_base
+*.ad_base
+AssemblyMesh.bin
+IndependentMesh.bin
+PartsAssembly.bin
+precision.dat
+remote.dat
+restarts.log
+setup.log
+stdSubmit.log
+ADProgress.stat
+SolverProgress.stat
+admodel*.log
+admodel*.prt
+admodel*.sum
+admodel*.xml
+
+# Workbench internals
+dp0/
+dpall/
+session_files/
+_ProjectScratch/
+.project_cache
+
+# Keep: *.wbpj *.agdb *.stp *.xml *.csv *.txt *.html

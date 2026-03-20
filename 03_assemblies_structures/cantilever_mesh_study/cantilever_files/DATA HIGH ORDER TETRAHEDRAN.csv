@@ -1,0 +1,17 @@
+﻿# 
+# 10/11/2024 14:51:08
+# The parameters defined in the project are:
+# ,P1 - Mesh Element Size [mm],P2 - Mesh Nodes,P3 - Directional Deformation Minimum [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3
+DP 0,5,482,-0.74557524919509888
+DP 1,4,935,-0.7486538290977478
+DP 2,3,1363,-0.74955302476882935
+DP 3,2.5,1890,-0.74985980987548828
+DP 4,2,2934,-0.75055235624313354
+DP 5,1.5,4243,-0.75102967023849487
+DP 6,1.2,9538,-0.75117689371109009
+DP 7,1,11954,-0.751262366771698
+DP 8,0.8,16265,-0.75142961740493774
+DP 9,0.7,24794,-0.75151944160461426

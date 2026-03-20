@@ -1,0 +1,23 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: SimpleBeam 10.1
+# Creation date: 10/15/2024 18:23:08
+# 
+# 10/15/2024 18:23:08
+# The parameters defined in the project are:
+# ,P1 - Directional Deformation Minimum [mm],P2 - Force X Component [N]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2
+DP 0,-7.8114256858825684,0.001
+DP 1,-7.3625659942626953,100
+DP 2,-6.9623627662658691,200
+DP 3,-6.6033763885498047,300
+DP 4,-6.279632568359375,400
+DP 5,-5.986264705657959,500
+DP 6,-4.8550739288330078,1000
+DP 7,-8.3183650970458984,-100
+DP 8,-8.8953151702880859,-200
+DP 9,-9.5571231842041016,-300
+DP 10,-10.321121215820313,-400
+DP 11,-11.205478668212891,-500

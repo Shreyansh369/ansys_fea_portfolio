@@ -1,0 +1,55 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: section 3.5
+# Creation date: 10/15/2024 14:36:46
+# 
+# 10/15/2024 14:36:46
+# The parameters defined in the project are:
+# ,P1 - X Axis Directional Deformation Maximum [mm],P2 - Mesh Nodes,P3 - Mesh Element Size [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2,P3
+DP 0,0.058299843221902847,6,10000
+DP 1,0.058299843221902847,6,8000
+DP 0,0.077699750661849976,218,10
+DP 1,0.078032799065113068,289,8
+DP 2,0.078263372182846069,483,6
+DP 3,0.078377723693847656,720,5
+DP 4,0.07845035195350647,1059,4
+DP 5,0.078544586896896362,1916,3
+DP 6,0.078568123281002045,2692,2.5
+DP 7,0.078601114451885223,4072,2
+DP 8,0.078623898327350616,7379,1.5
+DP 9,0.0786358192563057,10923,1.2
+DP 10,0.078640051186084747,16123,1
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/15/2024 14:45:57
+# 
+DP 0,0.078129202127456665,187,10
+DP 1,0.078299574553966522,287,8
+DP 2,0.078462123870849609,496,6
+DP 3,0.078497596085071564,691,5
+DP 4,0.078560434281826019,1057,4
+DP 5,0.078600727021694183,1843,3
+DP 6,0.078615039587020874,2586,2.5
+DP 7,0.078627899289131165,3997,2
+DP 8,0.078639902174472809,7096,1.5
+DP 9,0.078643888235092163,11099,1.2
+DP 10,0.0786471739411354,15768,1
+# 
+# A non parametric change occurred and invalidated design point results.
+# 10/15/2024 14:55:37
+# 
+# 
+# 10/15/2024 15:10:55
+# Parameters have been added and/or removed. The parameters now defined in the project are:
+# ,P4 - X Axis Normal Stress Maximum [MPa],P3 - Vertex Sizing Element Size [mm],P2 - Vertex Sizing Sphere Radius [mm]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P4,P3,P2
+DP 1,298.48953755696613,1,10
+DP 2,395.14816284179688,0.5,5
+DP 3,577.953369140625,0.2,3
+DP 4,779.82952880859375,0.1,3
+DP 5,973.12471516927087,0.06,3
